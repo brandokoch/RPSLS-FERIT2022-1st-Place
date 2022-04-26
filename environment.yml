@@ -1,0 +1,12 @@
+name: RPSLS 
+channels:
+  - pytorch
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.8
+  - pip=21.2.4
+  - pytorch==1.11.0 
+  - cpuonly
+  - pip:
+    - numpy==1.19.5
