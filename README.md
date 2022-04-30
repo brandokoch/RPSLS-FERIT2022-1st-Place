@@ -23,7 +23,7 @@ This repository presents my solution to **FERIT's 2022 Rock, Paper, Scissors, Li
 
 
 
-**FERIT's 2022 RPSLS competition required the creation of a player algorithm to play against an unknown robot algorithm in the game of RPSLS. A submission is graded by the number of wins in a simulation of 2000 games in a row.**
+**FERIT's (Faculty of Electrical Engineering, Computer Science and Information Technology, Osijek) 2022 RPSLS competition required the creation of a player algorithm to play against an unknown robot algorithm in the game of RPSLS. A submission is graded by the number of wins in a simulation of 2000 games in a row.**
 
 ```
 In each of the 2000 games, the competitor and the robot decide on each of the numbers from 1 to 5, where:
